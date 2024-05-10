@@ -16,7 +16,7 @@
       >
         <span class="navbar-toggler-icon" />
       </button>
-      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <!-- <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav">
           <li class="nav-item">
             <a class="nav-link" href="/appartment">Appartment Regression</a>
@@ -25,7 +25,7 @@
             <a class="nav-link" href="/mnist">Number Classification</a>
           </li>
         </ul>
-      </div>
+      </div> -->
     </div>
   </nav>
 
